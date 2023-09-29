@@ -1,0 +1,317 @@
+{
+  "$type": "KoBeLUAdmin.Model.Process.Workflow, KoBeLUAdmin",
+  "m_Name": null,
+  "m_Id": null,
+  "m_Description": null,
+  "m_HardwareSetup": null,
+  "m_WorkingsSteps": {
+    "$type": "HciLab.Utilities.AsyncObservableCollection`1[[KoBeLUAdmin.Model.Process.WorkingStep, KoBeLUAdmin]], HciLab.Utilities",
+
+    "$values": [
+      {
+        "$type": "KoBeLUAdmin.Model.Process.WorkingStep, KoBeLUAdmin",
+        "m_SerVersion": 6,
+        "m_StepNumber": 1,
+        "m_Name": "Entnahme Box-0",
+        "m_WithDrawel": "Box-0",
+        "m_Mode": 0,
+        "m_AdaptiveScenes": {
+          "$type": "System.Collections.ObjectModel.ObservableCollection`1[[KoBeLUAdmin.Model.Process.AdaptiveScene, KoBeLUAdmin]], System",
+          "$values": [
+            {
+              "$type": "KoBeLUAdmin.Model.Process.AdaptiveScene, KoBeLUAdmin",
+              "m_Name": "",
+              "m_Level": {
+                "$type": "KoBeLUAdmin.Model.Process.AdaptivityLevel, KoBeLUAdmin",
+                "m_SerVersionDataBaseClass": 1,
+                "m_Id": 1,
+                "m_Name": "Easy"
+              },
+              "m_Scene": {
+                "$type": "KoBeLUAdmin.Scene.Scene, KoBeLUAdmin",
+                "m_SerVersionSceneItem": 4,
+                "m_Id": 17,
+                "m_X": 0.0,
+                "m_Y": 0.0,
+                "m_Z": 0.0,
+                "m_Height": 1.0,
+                "m_Width": 1.0,
+                "m_Rotation": 0.0,
+                "m_Rx": 0.5,
+                "m_Ry": 0.5,
+                "m_Scale": 1.0,
+                "m_Touchy": true,
+                "m_Flash": false,
+                "m_FlashTimeOn": 1000,
+                "m_FlashTimeOff": 1000,
+                "m_IsAnimated": false,
+                "m_TargetX": 0,
+                "m_TargetY": 0,
+                "m_StartX": 0,
+                "m_StartY": 0,
+                "m_SerVersion": 1,
+                "m_Items": {
+                  "$type": "HciLab.Utilities.CollectionWithItemNotify`1[[KoBeLUAdmin.Scene.SceneItem, KoBeLUAdmin]], HciLab.Utilities",
+                  "$values": [
+                    {
+                      "$type": "KoBeLUAdmin.Scene.SceneRect, KoBeLUAdmin",
+                      "m_SerVersionSceneItem": 4,
+                      "m_Id": 16,
+                      "m_X": 217.0,
+                      "m_Y": 91.0,
+                      "m_Z": 0.0,
+                      "m_Height": 50.0,
+                      "m_Width": 50.0,
+                      "m_Rotation": 0.0,
+                      "m_Rx": 0.0,
+                      "m_Ry": 0.0,
+                      "m_Scale": 0.0,
+                      "m_Touchy": false,
+                      "m_Flash": false,
+                      "m_FlashTimeOn": 1000,
+                      "m_FlashTimeOff": 1000,
+                      "m_IsAnimated": false,
+                      "m_TargetX": 0,
+                      "m_TargetY": 0,
+                      "m_StartX": 0,
+                      "m_StartY": 0,
+                      "m_SerVersionSceneColor": 1,
+                      "m_Color": "#FF00FF00",
+                      "m_ColorStart": "#FF00FF00",
+                      "m_ColorEnd": "#FFFFFFFF",
+                      "m_IsColorPulsing": false,
+                      "m_PluseTime": 10000.0,
+                      "m_SerVersion": 1
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "$type": "KoBeLUAdmin.Model.Process.AdaptiveScene, KoBeLUAdmin",
+              "m_Name": "",
+              "m_Level": {
+                "$type": "KoBeLUAdmin.Model.Process.AdaptivityLevel, KoBeLUAdmin",
+                "m_SerVersionDataBaseClass": 1,
+                "m_Id": 2,
+                "m_Name": "Medium"
+              },
+              "m_Scene": {
+                "$type": "KoBeLUAdmin.Scene.Scene, KoBeLUAdmin",
+                "m_SerVersionSceneItem": 4,
+                "m_Id": 18,
+                "m_X": 0.0,
+                "m_Y": 0.0,
+                "m_Z": 0.0,
+                "m_Height": 1.0,
+                "m_Width": 1.0,
+                "m_Rotation": 0.0,
+                "m_Rx": 0.5,
+                "m_Ry": 0.5,
+                "m_Scale": 1.0,
+                "m_Touchy": true,
+                "m_Flash": false,
+                "m_FlashTimeOn": 1000,
+                "m_FlashTimeOff": 1000,
+                "m_IsAnimated": false,
+                "m_TargetX": 0,
+                "m_TargetY": 0,
+                "m_StartX": 0,
+                "m_StartY": 0,
+                "m_SerVersion": 1,
+                "m_Items": {
+                  "$type": "HciLab.Utilities.CollectionWithItemNotify`1[[KoBeLUAdmin.Scene.SceneItem, KoBeLUAdmin]], HciLab.Utilities",
+                  "$values": [
+                    {
+                      "$type": "KoBeLUAdmin.Scene.SceneRect, KoBeLUAdmin",
+                      "m_SerVersionSceneItem": 4,
+                      "m_Id": 16,
+                      "m_X": 217.0,
+                      "m_Y": 91.0,
+                      "m_Z": 0.0,
+                      "m_Height": 50.0,
+                      "m_Width": 50.0,
+                      "m_Rotation": 0.0,
+                      "m_Rx": 0.0,
+                      "m_Ry": 0.0,
+                      "m_Scale": 0.0,
+                      "m_Touchy": false,
+                      "m_Flash": false,
+                      "m_FlashTimeOn": 1000,
+                      "m_FlashTimeOff": 1000,
+                      "m_IsAnimated": false,
+                      "m_TargetX": 0,
+                      "m_TargetY": 0,
+                      "m_StartX": 0,
+                      "m_StartY": 0,
+                      "m_SerVersionSceneColor": 1,
+                      "m_Color": "#FF00FF00",
+                      "m_ColorStart": "#FF00FF00",
+                      "m_ColorEnd": "#FFFFFFFF",
+                      "m_IsColorPulsing": false,
+                      "m_PluseTime": 10000.0,
+                      "m_SerVersion": 1
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "m_EndConditionObjectName": "0",
+        "m_FailStates": {
+          "$type": "System.Collections.ObjectModel.ObservableCollection`1[[KoBeLUAdmin.Model.Process.WorkflowFailState, KoBeLUAdmin]], System",
+          "$values": []
+        },
+        "m_TimeOut": 0,
+        "m_ExpectedDuration": 0,
+        "m_IsManualStep": false,
+        "m_IsQSStep": false
+      },
+      {
+        "$type": "KoBeLUAdmin.Model.Process.WorkingStep, KoBeLUAdmin",
+        "m_SerVersion": 6,
+        "m_StepNumber": 2,
+        "m_Name": "Fertig",
+        "m_WithDrawel": "",
+        "m_Mode": 4,
+        "m_AdaptiveScenes": {
+          "$type": "System.Collections.ObjectModel.ObservableCollection`1[[KoBeLUAdmin.Model.Process.AdaptiveScene, KoBeLUAdmin]], System",
+          "$values": [
+            {
+              "$type": "KoBeLUAdmin.Model.Process.AdaptiveScene, KoBeLUAdmin",
+              "m_Name": "",
+              "m_Level": {
+                "$type": "KoBeLUAdmin.Model.Process.AdaptivityLevel, KoBeLUAdmin",
+                "m_SerVersionDataBaseClass": 1,
+                "m_Id": 1,
+                "m_Name": "Easy"
+              },
+              "m_Scene": {
+                "$type": "KoBeLUAdmin.Scene.Scene, KoBeLUAdmin",
+                "m_SerVersionSceneItem": 4,
+                "m_Id": 19,
+                "m_X": 0.0,
+                "m_Y": 0.0,
+                "m_Z": 0.0,
+                "m_Height": 1.0,
+                "m_Width": 1.0,
+                "m_Rotation": 0.0,
+                "m_Rx": 0.5,
+                "m_Ry": 0.5,
+                "m_Scale": 1.0,
+                "m_Touchy": true,
+                "m_Flash": false,
+                "m_FlashTimeOn": 1000,
+                "m_FlashTimeOff": 1000,
+                "m_IsAnimated": false,
+                "m_TargetX": 0,
+                "m_TargetY": 0,
+                "m_StartX": 0,
+                "m_StartY": 0,
+                "m_SerVersion": 1,
+                "m_Items": {
+                  "$type": "HciLab.Utilities.CollectionWithItemNotify`1[[KoBeLUAdmin.Scene.SceneItem, KoBeLUAdmin]], HciLab.Utilities",
+                  "$values": [
+                    {
+                      "$type": "KoBeLUAdmin.Scene.SceneText, KoBeLUAdmin",
+                      "m_SerVersionSceneItem": 4,
+                      "m_Id": 20,
+                      "m_X": 256.0,
+                      "m_Y": 180.5,
+                      "m_Z": 0.0,
+                      "m_Height": 0.1,
+                      "m_Width": 0.1,
+                      "m_Rotation": 0.0,
+                      "m_Rx": 0.05,
+                      "m_Ry": 0.05,
+                      "m_Scale": 1.0,
+                      "m_Touchy": true,
+                      "m_Flash": false,
+                      "m_FlashTimeOn": 1000,
+                      "m_FlashTimeOff": 1000,
+                      "m_IsAnimated": false,
+                      "m_TargetX": 0,
+                      "m_TargetY": 0,
+                      "m_StartX": 256,
+                      "m_StartY": 180,
+                      "m_SerVersionSceneColor": 1,
+                      "m_Color": "#FFFFFFFF",
+                      "m_ColorStart": "#FFFFFFFF",
+                      "m_ColorEnd": "#FFFFFFFF",
+                      "m_IsColorPulsing": false,
+                      "m_PluseTime": 10000.0,
+                      "m_SerVersion": 1,
+                      "m_Text": "Fertig",
+                      "m_FontFamily": "Arial",
+                      "m_FontSize": 10.0
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "m_EndConditionObjectName": "end",
+        "m_FailStates": {
+          "$type": "System.Collections.ObjectModel.ObservableCollection`1[[KoBeLUAdmin.Model.Process.WorkflowFailState, KoBeLUAdmin]], System",
+          "$values": []
+        },
+        "m_TimeOut": 0,
+        "m_ExpectedDuration": 0,
+        "m_IsManualStep": false,
+        "m_IsQSStep": false
+      }
+    ]
+  },
+  "m_BoxLayout": {
+    "$type": "KoBeLUAdmin.Backend.Boxes.BoxLayout, KoBeLUAdmin",
+    "m_SerVersion": 1,
+
+    "m_BoxList": {
+      "$type": "System.Collections.ObjectModel.ObservableCollection`1[[KoBeLUAdmin.Backend.Boxes.Box, KoBeLUAdmin]], System",
+      "$values": [
+        {
+          "$type": "KoBeLUAdmin.Backend.Boxes.Box, KoBeLUAdmin",
+          "m_SerVersionDataBaseClass": 1,
+          "m_Id": 0,
+          "m_SerVersionWorkflowBase": 3,
+          "m_X": 217,
+          "m_Y": 91,
+          "m_Z": 22388,
+          "m_Width": 50,
+          "m_Height": 50,
+          "m_Name": "0",
+          "m_TriggerMessage": "0",
+          "m_CustomScene": null,
+          "m_Contour": null,
+          "m_SerVersion": 3,
+          "m_DepthMean": 1070.6072,
+          "m_MatchPercentageOffset": 0.0,
+          "m_LowerThreshold": 60,
+          "m_UpperThreshold": 190
+        }
+      ]
+    },
+    "m_LayoutName": ""
+  },
+  "m_ObjectZoneLayout": {
+    "$type": "KoBeLUAdmin.Backend.ObjectDetection.ObjectDetectionZonesLayout, KoBeLUAdmin",
+
+    "m_SerVersion": 1,
+    "m_ObjectDetectionZonesList": {
+      "$type": "System.Collections.ObjectModel.ObservableCollection`1[[KoBeLUAdmin.Backend.ObjectDetection.ObjectDetectionZone, KoBeLUAdmin]], System",
+      "$values": []
+    },
+    "m_LayoutName": ""
+  },
+  "m_AssemblyZoneLayout": {
+    "$type": "KoBeLUAdmin.Backend.AssembleyZones.AssemblyZoneLayout, KoBeLUAdmin",
+    
+    "m_SerVersion": 1,
+    "m_AssemblyZoneList": {
+      "$type": "System.Collections.ObjectModel.ObservableCollection`1[[KoBeLUAdmin.Backend.AssembleyZones.AssemblyZone, KoBeLUAdmin]], System",
+      "$values": []
+    },
+    "m_LayoutName": ""
+  }}
